@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/GAME SCENE/RPG GAME/RPG GAME.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
